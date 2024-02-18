@@ -1,4 +1,3 @@
-import './App.css'
 
 function App() {
   
@@ -6,7 +5,7 @@ function App() {
   return (
     <>
       <div>
-      
+      <h1>this the startr</h1>
       </div>
   
     </>
